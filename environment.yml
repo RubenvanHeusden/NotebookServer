@@ -5,3 +5,8 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - matplotlib
+  - numpy
+  - pandas
+  - networkx
+  - nose
